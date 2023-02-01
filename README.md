@@ -1,5 +1,7 @@
 Notion: https://elianna.notion.site/elianna/Automating-Metadata-a8acd0a54e05497dad0faf3ada5f1708
 
+Web infrastructure
+
 The **goal** of this project is to ignore the current metadata system and start over. We want to know 
 
 - **What metadata is necessary for science?**
